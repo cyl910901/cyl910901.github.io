@@ -1,1 +1,1 @@
-<a herf:http:www.google.com.tw>我愛afats</a>
+<a href:http:www.google.com.tw>我愛afats</a>
